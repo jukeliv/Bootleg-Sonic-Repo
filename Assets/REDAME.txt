@@ -1,0 +1,7 @@
+Copyright:Please, let credits to Overhcarged Dev ( me )
+for making all the code and the sprites :D
+
+|--------------------------------------------------------|
+| 	  2D CHARACTER CONTROLLER FOR UNITY		 |
+|	               Ver 0.1				 |
+|--------------------------------------------------------|
